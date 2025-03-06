@@ -12,3 +12,7 @@
 // This is C++:
 int x {};
 ```
+
+- [x] GitHub Intro Course
+- [ ] GitHub Markdown Course
+- [x] C64 SID 🐐
