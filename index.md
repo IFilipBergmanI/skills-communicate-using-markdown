@@ -5,3 +5,5 @@
 ##### H5
 ###### H6
 ####### H7 doesn't exist :smile:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
